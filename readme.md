@@ -20,6 +20,8 @@ Next, if using Laravel 5, include the service provider within your `config/app.p
 
 Finally, as noted above, the default CSS classes for your flash message are optimized for Twitter Bootstrap. As such, pull in the Bootstrap's CSS within your HTML or layout file.
 
+Though it should be Bootstrap 4.
+
 ```html
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 ```
